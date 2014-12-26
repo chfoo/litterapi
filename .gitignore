@@ -1,0 +1,11 @@
+.idea/
+*.iml
+
+__pycache__/
+*.py[co]
+
+dist/
+build/
+*.egg-info
+
+*~
